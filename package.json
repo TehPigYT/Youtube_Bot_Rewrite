@@ -1,0 +1,30 @@
+{
+  "name": "youtube-bot",
+  "version": "0.0.1",
+  "description": "a fun bot to use!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TehPig",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TehPigYT/Youtube_Bot_Rewrite.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "Discord.js",
+    "v13"
+  ],
+  "bugs": {
+    "url": "https://github.com/TehPigYT/Youtube_Bot_Rewrite/issues"
+  },
+  "homepage": "https://github.com/TehPigYT/Youtube_Bot_Rewrite#readme"
+}
